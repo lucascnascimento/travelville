@@ -1,2 +1,2 @@
 # travelville
-Front page of a travel agency done using MaterializeCSS
+Front page of a travel agency website done using MaterializeCSS
